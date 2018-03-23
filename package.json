@@ -1,0 +1,15 @@
+{
+  "name": "genwallets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "genWallets.js",
+  "dependencies": {
+    "ethereumjs-wallet": "^0.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
